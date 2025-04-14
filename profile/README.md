@@ -13,14 +13,14 @@ SINGALAM (Sistem Informasi dan Gerakan Layanan Kota Malang) is an inclusive, AI-
 With a voice-first interface, real-time AI chatbot, and transparent report tracking, SINGALAM bridges the gap between public service access and digital inclusivity, especially for the visually impaired in Malang City.
 
 ## 💡 Key Features
-🗣️ Voice-Guided Interface: Navigate every page with built-in voice instructions, designed for screen reader compatibility.
-🤖 MalangBot – AI Chatbot: Instant responses to public service-related questions using RAG-based chatbot technology.
-📄 Inclusive Complaint Form: Submit reports using either speech or text input, accessible and efficient for all users.
-🔍 Complaint History Tracking: Keep users updated with real-time report status and responses from the authorities.
-♿ Accessibility-First Design: High color contrast, keyboard navigation, and screen reader support built-in.
+🗣️ Voice-Guided Interface: Navigate every page with built-in voice instructions, designed for screen reader compatibility.<br>
+🤖 MalangBot – AI Chatbot: Instant responses to public service-related questions using RAG-based chatbot technology.<br>
+📄 Inclusive Complaint Form: Submit reports using either speech or text input, accessible and efficient for all users.<br>
+🔍 Complaint History Tracking: Keep users updated with real-time report status and responses from the authorities.<br>
+♿ Accessibility-First Design: High color contrast, keyboard navigation, and screen reader support built-in.<br>
 
 ## 🌐 Access Prototype
-Try our prototype here: bit.ly/PrototypeSINGALAM
+Try our prototype here: https://bit.ly/PrototypeSINGALAM
 
 ## Documentation
 We seperate our documentation into three part, which are Frontend Website, Backend Website and Machine Learning Backend.
