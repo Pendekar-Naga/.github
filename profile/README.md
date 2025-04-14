@@ -22,7 +22,10 @@ With a voice-first interface, real-time AI chatbot, and transparent report track
 ## 🌐 Access Prototype
 Try our prototype here: https://bit.ly/PrototypeSINGALAM
 
-## Documentation
+## 💻 Link Website
+Check our website here: https://singalam-fe.vercel.app/ (The website is not fully optimized yet due to limited server resources. Improvements are in progress.)
+
+## 📄 Documentation
 We seperate our documentation into three part, which are Frontend Website, Backend Website and Machine Learning Backend.
 
 - [Frontend Website](https://github.com/Pendekar-Naga/singalam-fe)
