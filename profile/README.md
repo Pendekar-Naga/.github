@@ -4,9 +4,9 @@
 Pendekar Naga
 
 ## 👥 Team Members
-Nadhirul Fatah Ulhaq – UX Designer & Strategist (Universitas Brawijaya)
-Tegar Setyo Wicaksono – Backend & AI Developer (Universitas Brawijaya)
-Alka Alvin Fauzi – Frontend Engineer (Universitas Brawijaya)
+Nadhirul Fatah Ulhaq – UX Designer & Strategist (Universitas Brawijaya)/n
+Tegar Setyo Wicaksono – Backend & AI Developer (Universitas Brawijaya)/n
+Alka Alvin Fauzi – Frontend Engineer (Universitas Brawijaya)/n
 
 ## 🧭 Project Overview
 SINGALAM (Sistem Informasi dan Gerakan Layanan Kota Malang) is an inclusive, AI-powered public complaint platform built to ensure that every citizen—including those with disabilities—can access public services independently and effectively.
